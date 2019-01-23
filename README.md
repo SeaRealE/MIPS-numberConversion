@@ -76,6 +76,6 @@ https://www.cs.ucsb.edu/~franklin/64/lectures/mipsassemblytutorial.pdf
 
 
 ## "첨부 파일"
-[첨부파일](/data/mars.jar)
+["mars.jar 다운로드"](/data/mars.jar)
 
 
