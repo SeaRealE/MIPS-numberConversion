@@ -33,11 +33,11 @@ floating point로 표현된 이진비트를 출력한다. 하지만 최종 결�
 스페이스를 출력한다.
 
 
-## "동작환경"
+## "동작 환경"
 첨부된 MIPS emulator를 사용한다. Jar 파일이므로 윈도우즈 환경에서 자바를 설치한후 실행한다.
 성공적으로 MIPS emulator를 실행하면 다음과 같은 창이 뜬다.
 
-![결과](/sample.png)
+![결과](/data/sample.png)
 
 F3는 소스코드를 assemble하는 단축키이다.
 F5는 실행하는 단축키이다. 실행결과가 하단의 창에 출력되므로 여기서 출력된 결과를 확인 할 수 있다.
@@ -74,5 +74,8 @@ https://www.cs.ucsb.edu/~franklin/64/lectures/mipsassemblytutorial.pdf
 
  각 단계의 동작을 확인하기 위해 단계별 결과를 위에서 이미 보여준 예시와 같이 출력한다. 단, 3단계의 결과는 입력된 값을 2로 나눈 후 출력한다.
 
+
+## "첨부 파일"
+[첨부파일](/data/mars.jar)
 
 
